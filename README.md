@@ -5,6 +5,5 @@ Performed month-wise trend analysis to identify seasonal patterns and sales grow
 Conducted state-level and city-level analysis to uncover regional performance insights.
 Implemented interactive slicers and filters to enable dynamic data exploration and real-time business insights.
 Transformed raw data into meaningful visual reports to support data-driven decision-making.
-
-# Screenshots/Demos
-Show what the dashboard looks like-
+-Screenshots/Demos
+Show what the dashboard looks like- https://github.com/ashulodwal8287-lab/Retail-Warehouse-Sales-Dashboard/blob/main/image.png
