@@ -5,3 +5,6 @@ Performed month-wise trend analysis to identify seasonal patterns and sales grow
 Conducted state-level and city-level analysis to uncover regional performance insights.
 Implemented interactive slicers and filters to enable dynamic data exploration and real-time business insights.
 Transformed raw data into meaningful visual reports to support data-driven decision-making.
+
+# Screenshots/Demos
+Show what the dashboard looks like-
